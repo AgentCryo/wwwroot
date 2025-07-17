@@ -1,19 +1,31 @@
 /* Make body and html take full height for full screen effect */
 html, body {
-    height: 100%;
+    height: 100vh;
+    width: 100vw;
     margin: 0;
     background-color: black;
     color: white;
     font-family: Consolas, monospace, 'Courier New', Courier, monospace;
 }
 
+html, body, #app {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
 .screen {
-    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black; /* or whatever background you want */
     color: white;
-    font-family: 'YourFont', monospace, monospace;
+    overflow-y: auto;
+    padding: 1rem;
     font-size: 40px;
-    padding: 10px;
-    outline: none;
 }
 
 .line {
@@ -27,14 +39,6 @@ html, body {
 
 .npc-line {
     margin-left: 0;
-}
-
-.input-line {
-    color: white; !important;
-    margin-left: 0;
-    white-space: pre-wrap;
-    font-family: inherit;
-    font-size: 40px;
 }
 
 .cursor {

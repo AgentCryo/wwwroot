@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TextLoreAdventure",
   "resources": {
-    "hash": "sha256-B0NW7VKaOpdwIF+AwcO6NVDajiab9ST2lXdRTIVy7aQ=",
+    "hash": "sha256-sCfkMkEr1eF6Vy5pe28kRomU+6lnApRR22WNolh+dvA=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.ek0nl7mrzt.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-orRYXBE9PyyYULF4QGIjiuGXP87mBqwS+m//QdwiTSM=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-L2Tom+atQhQ5llLqwp3Fxd7zaVf91+0jjN1mkiCzqpE=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-XAFYwJWN84vu8LgS9mDnoAjI+rSHs5E4ovUW6zz6ucg=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-601JE5rfGdeAwa6XG4Zu9R6RxYS6tJ70T7zZI4/O/f8=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-87sn2TYqgdZ95sXmavjKEzoEfMgHnYQ9LOvnMX+aZcI=",
@@ -43,10 +43,10 @@
       "System.Private.CoreLib.wasm": "sha256-Dq2twF1LIMdooWflxjOtBQN/sT90dcBl2JL7Y2fiqB4=",
       "System.Private.Uri.wasm": "sha256-NJG7CdfapWZ8rh0uj+ySphRq229TS28HJSAyak4/VZg=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-ick0L8BMlN/DNWw0EnAnSMeYbiczX3ggoXkf5DDrCwc=",
-      "System.Runtime.wasm": "sha256-M+DYamMtUdBh7iTnZSj+a2dozogqcq+wtaYLF+sp5/M=",
+      "System.Runtime.wasm": "sha256-P9TzVFCkSqNNO7WimtmYNUzDVaBaYqEDVABrGs0UzxM=",
       "System.Text.Encodings.Web.wasm": "sha256-Bi7mjUAkZVHmzZZdfC7FmlVYoZQ8wKydcWn3pziYU8g=",
       "System.Text.Json.wasm": "sha256-FN9e+3DfB3P7eqZXvrRaQ2VnbriPMRG1LnBXRlejBeA=",
-      "TextLoreAdventure.wasm": "sha256-Xs1TZym6wat6khye1tkRJfON/CyRJRkQQ8rwj/WLjQg="
+      "TextLoreAdventure.wasm": "sha256-Qph0kaTO5Dj8DqdDx8LhPq8CyRmpy1ZIugTCfmX5aOA="
     }
   },
   "cacheBootResources": true,
