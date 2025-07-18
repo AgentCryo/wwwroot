@@ -1,4 +1,5 @@
 {
+  "JsonName": "Key",
   "DisplayName": "Rusty Iron Key",
   "PickUpLine": {
     "Text": "Seaching around, you found a Rusty Iron Key!",

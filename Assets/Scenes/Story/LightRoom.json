@@ -21,6 +21,18 @@
         "FontSize": 26
       },
       "Scenes": ["CrossRoads"]
+    },
+    {
+      "Line": {
+        "Text": "Try the door.",
+        "FontSize": 26
+      },
+      "Scenes": ["ControlRoom"],
+      "Requirements": [
+        {
+          "Item": "Key"
+        }
+      ]
     }
   ]
 }

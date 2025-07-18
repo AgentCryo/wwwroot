@@ -1,0 +1,17 @@
+{
+  "Lines": [
+    {
+      "Text": "Place holder.",
+      "FontSize": 30
+    }
+  ],
+  "Choices": [
+    {
+      "Line": {
+        "Text": "Go back to the light room.",
+        "FontSize": 26
+      },
+      "Scenes": ["LightRoom"]
+    }
+  ]
+}
