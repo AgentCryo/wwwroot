@@ -13,10 +13,10 @@
   "Choices": [
     {
       "Line": {
-        "Text": "(1) Go back to the crossroads.",
+        "Text": "Go back to the crossroads.",
         "FontSize": 26
       },
-      "Scenes": ["Test"]
+      "Scenes": ["CrossRoads"]
     }
   ]
 }

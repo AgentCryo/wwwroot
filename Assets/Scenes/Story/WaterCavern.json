@@ -13,17 +13,17 @@
   "Choices": [
     {
       "Line": {
-        "Text": "(1) Return to the crossroads.",
+        "Text": "Return to the crossroads.",
         "FontSize": 26
       },
-      "Scenes": ["Test"]
+      "Scenes": ["CrossRoads"]
     },
     {
       "Line": {
-        "Text": "(2) Stay here and explore more.",
+        "Text": "Stay here and explore more.",
         "FontSize": 26
       },
-      "Scenes": []
+      "Items": ["Key"]
     }
   ]
 }

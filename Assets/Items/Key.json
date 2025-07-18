@@ -1,0 +1,8 @@
+{
+  "DisplayName": "Rusty Iron Key",
+  "Attributes": {
+    "Opens": "OldGate",
+    "Weight": 0.1,
+    "QuestItem": true
+  }
+}
