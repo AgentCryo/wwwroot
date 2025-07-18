@@ -6,6 +6,10 @@
     },
     {
       "Text": "The flame flickers but provides little warmth.",
+      "FontSize": 26
+    },
+    {
+      "Text": "There is a door behind the flame, you tried the handle, it's locked.",
       "FontSize": 26,
       "PaddingBelow": 10
     }

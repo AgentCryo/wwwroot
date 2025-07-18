@@ -1,8 +1,10 @@
 {
   "DisplayName": "Rusty Iron Key",
+  "PickUpLine": {
+    "Text": "Seaching around, you found a Rusty Iron Key!",
+    "FontSize": 26
+  },
   "Attributes": {
-    "Opens": "OldGate",
-    "Weight": 0.1,
-    "QuestItem": true
+    "KeyID": "LightRoomFlameDoor"
   }
 }
